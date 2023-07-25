@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CoffeeManager</string>
+
+    <string-array name="spinnerItems">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+</resources>
